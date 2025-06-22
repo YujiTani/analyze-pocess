@@ -8,6 +8,7 @@
     "build": "tsc && chmod 755 build/index.js",
     "lint": "biome lint src/",
     "format": "biome format --write src/",
+    "format:fix": "biome format src/",
     "check": "biome check src/"
   },
   "author": "",

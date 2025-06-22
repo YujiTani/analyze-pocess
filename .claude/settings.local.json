@@ -6,7 +6,8 @@
       "WebFetch(domain:modelcontextprotocol.io)",
       "Bash(bun run:*)",
       "Bash(cpu-monitor)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }
