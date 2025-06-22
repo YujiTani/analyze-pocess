@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx @biomejs/biome check:*)"
+    ],
+    "deny": []
+  }
+}
