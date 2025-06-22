@@ -1,8 +1,8 @@
 {
-  "name": "process-analyze",
+  "name": "system-process-analyzer",
   "version": "1.0.0",
   "bin": {
-    "proces-analyze": "./build/index.js"
+    "system-process-analyzer": "./build/index.js"
   },
   "scripts": {
     "build": "tsc && chmod 755 build/index.js",

@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx @biomejs/biome check:*)"
+      "Bash(npx @biomejs/biome check:*)",
+      "Bash(npm run build:*)",
+      "WebFetch(domain:modelcontextprotocol.io)",
+      "Bash(bun run:*)",
+      "Bash(cpu-monitor)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }
